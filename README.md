@@ -7,3 +7,5 @@ Stages:
 2) study of correlation
 3) conclusions
 Stack: pandas, numpy, seaborn, matplotlib
+
+Conclusions: 
