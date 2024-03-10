@@ -1,15 +1,16 @@
 # Russian-film-distribution-market
 
 Good day, this research was made while I was studying in Yandex.
-Purpose: study the Russian film distribution market and identify current trends
-Stages: 
+
+**Purpose**: study the Russian film distribution market and identify current trends
+**Stages**: 
 1) data loading, EDA
 2) study of correlation
 3) conclusions
 
-Stack: pandas, numpy, seaborn, matplotlib
+**Stack**: pandas, numpy, seaborn, matplotlib
 
-Conclusions: 
+**Conclusions**: 
 1) An analysis of categorical data was carried out: duplicates were identified due to input errors: the presence of extra spaces; use of different registers; The data was brought to a uniform form (lower case), extra spaces were removed; fixed data types where necessary;
 2) The most films were released in 2010 and 2019. It is worth noting that the fewest rental certificates were issued in 2012 and 2017.
 3) According to available data, it has been established that:
